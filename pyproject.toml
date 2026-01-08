@@ -1,0 +1,10 @@
+[project]
+name = "fund-behavior"
+version = "0.1.0"
+description = "Analyzes 13-F filings of AI stocks."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pandas>=2.3.3",
+]
