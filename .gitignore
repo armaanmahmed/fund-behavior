@@ -16,3 +16,6 @@ __pycache__/
 
 # Data
 data/raw/*
+
+# Maintain data folder structure
+!data/raw/.gitkeep
